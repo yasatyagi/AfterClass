@@ -1,7 +1,5 @@
-node_modules/
-dist/
+service-account.json
 .env
 .venv/
 __pycache__/
-service-account.json
-*.log
+*.pyc
